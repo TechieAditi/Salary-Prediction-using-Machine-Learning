@@ -1,1 +1,1 @@
-# Salary-Prediction-using-Machine-Learning
+# Startup-Prediction-using-Machine-Learning
